@@ -4,7 +4,7 @@
 
 ### 🎯 **Project Objective**
 
-This project aims to classify user sentiment from Flip fintech app reviews using two pre-trained Indonesian transformer models — **IndoBERT-base-p1** and **IndoBERT-base-p2**. The goal is to compare their performance and identify which model is more effective for real-world sentiment analysis in Bahasa Indonesia.
+This project aims to classify user sentiment from Flip fintech app reviews using two pre-trained Indonesian transformer models **IndoBERT-base-p1** and **IndoBERT-base-p2**. The goal is to compare their performance and identify which model is more effective for real-world sentiment analysis in Bahasa Indonesia.
 
 ---
 
