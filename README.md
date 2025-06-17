@@ -1,4 +1,4 @@
-## 📌 **Sentiment Analysis on Flip App Reviews: Comparing IndoBERT-base-p1 vs IndoBERT-base-p2**
+## 📌 **Sentiment Analysis on Flip App Reviews using IndoBERT Base-P1 and IndoBERT Base-P2 **
 
 ---
 
